@@ -1,6 +1,7 @@
 # Online-Sales
 
 Insights:
+
 March saw the highest order volume (2 orders) and a high revenue of ₹460.95.
 
 May had the highest single-month revenue (₹600.00) despite just 1 order, suggesting a high-value product was sold.
